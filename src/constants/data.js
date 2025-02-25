@@ -4,12 +4,12 @@ const wines = [
   {
     title: 'Chapel Hill Shiraz',
     price: '$56',
-    tags: 'AU | Bottle',
+    tags: 'U | Botella',
   },
   {
     title: 'Catena Malbee',
     price: '$59',
-    tags: 'AU | Bottle',
+    tags: 'U | Botella',
   },
   {
     title: 'La Vieillw Rose',
